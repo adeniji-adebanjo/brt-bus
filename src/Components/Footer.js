@@ -158,13 +158,15 @@ const Footer = () => {
           </div>
         </div>
         <hr />
-        <div className="row justify-content-between">
-          <div className="col">
-            <p>&copy; 2023, Untitled UI. All Rights Reserved.</p>
-          </div>
-          <div className="col">
-            <FaGithub /> <FaFacebook /> <FaDribbble /> <FaTwitter />
-            <FaGoogle />
+        <div className="justify-content-between">
+          <div className="row ">
+            <div className="col">
+              <p>&copy; 2023, Untitled UI. All Rights Reserved.</p>
+            </div>
+            <div className="col">
+              <FaGithub /> <FaFacebook /> <FaDribbble /> <FaTwitter />
+              <FaGoogle />
+            </div>
           </div>
         </div>
       </div>
