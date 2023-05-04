@@ -4,6 +4,7 @@ import Hero from "./Components/Hero";
 import Services from "./Components/Services";
 import NewsUpdates from "./Components/NewsUpdates";
 import DownloadApp from "./Components/DownloadApp";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Services />
       <NewsUpdates />
       <DownloadApp />
+      <Footer />
     </>
   );
 }

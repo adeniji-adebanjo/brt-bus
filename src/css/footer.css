@@ -1,0 +1,43 @@
+.List {
+  text-decoration: none;
+  list-style: none;
+  position: relative;
+  padding: 0px 60px 0px 0px;
+  margin: 0px;
+}
+
+.List a {
+  position: inherit;
+  text-decoration: none;
+  color: rgb(151, 149, 149);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-weight: 600;
+}
+
+.Easyride-footer {
+  position: relative;
+  color: rgb(6, 7, 7);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  margin: 2rem;
+  padding: 20px 0px 10px 30px;
+}
+
+.Text {
+  padding: 20px 30px 30px 60px;
+  text-align: left;
+  position: absolute;
+  font-size: smaller;
+}
+
+.label {
+  color: rgb(196, 195, 195);
+  font-size: smaller;
+  position: relative;
+  text-align: left;
+}
+.col-3 p {
+  font-size: 13px;
+}
